@@ -28,5 +28,7 @@ Once the setup is complete, you can start the chatbot service using:
 python app.py
 
 # Contributors
+
 Udit Saini
+
 Rachit Gupta
