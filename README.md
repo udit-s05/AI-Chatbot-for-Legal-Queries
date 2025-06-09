@@ -34,4 +34,4 @@ Udit Saini
 Rachit Gupta
 
 # Model link
-
+https://www.kaggle.com/code/rachitneedcse/legalchatbot-final
